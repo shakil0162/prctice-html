@@ -1,0 +1,13 @@
+label>input:hover{
+    border-radius: 5px;
+}
+div>img{
+    width: 25%;
+    height: 25%;
+}
+figcaption{
+    margin-left: 150px;
+}
+div>form>label>input{
+    display: block;
+}
